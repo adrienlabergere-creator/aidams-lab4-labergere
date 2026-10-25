@@ -1,6 +1,6 @@
-# AIDAMS Lab 4 — An LLM Extraction You Can Trust
+# AIDAMS Lab 4: An LLM Extraction You Can Trust
 
-Submitted solo by Labergere Adrien (ID B00822082).
+Submitted by Labergere Adrien (ID B00822082).
 
 ## Files
 
